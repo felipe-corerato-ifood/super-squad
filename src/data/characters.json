@@ -4,26 +4,26 @@
       "name": "Superman",
       "strength": 10,
       "intelligence": 7,
-      "speed": 9
+      "speed": 8
     },
     {
       "id": 1,
       "name": "Batman",
       "strength": 7,
       "intelligence": 10,
-      "speed": 6
+      "speed": 5
     },
     {
       "id": 2,
       "name": "Wonderwoman",
-      "strength": 5,
+      "strength": 9,
       "intelligence": 9,
       "speed": 7
     },
     {
       "id": 3,
       "name": "Flash",
-      "strength": 5,
+      "strength": 8,
       "intelligence": 6,
       "speed": 10
     },
@@ -44,29 +44,29 @@
     {
       "id": 6,
       "name": "Cyborg",
-      "strength": 9,
-      "intelligence": 8,
+      "strength": 8,
+      "intelligence": 9,
       "speed": 6
     },
     {
       "id": 7,
       "name": "Green Arrow",
-      "strength": 5,
+      "strength": 6,
       "intelligence": 9,
       "speed": 7
     },
     {
       "id": 8,
-      "name": "Hawkman",
+      "name": "Batgirl",
       "strength": 5,
       "intelligence": 8,
-      "speed": 8
+      "speed": 7
     },
     {
       "id": 9,
       "name": "Supergirl",
       "strength": 10,
-      "intelligence": 9,
+      "intelligence": 8,
       "speed": 7
     }
   ]
